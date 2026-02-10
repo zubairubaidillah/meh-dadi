@@ -108,6 +108,11 @@ body.dark footer {
   max-width: 1000px;
   margin: auto;
 }
+
+.center-text {
+  text-align: center;
+  margin-bottom: 30px;
+}
 /* Hero Video */
 .hero {
   position: relative;
